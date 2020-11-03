@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
@@ -89,25 +75,29 @@
       <screen x="0" y="0" width="1440" height="929" />
     </state>
     <state x="479" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1440.929@0.0.1440.929" timestamp="1604319998528" />
-    <state width="1387" height="95" key="GridCell.Tab.0.bottom" timestamp="1604321951667">
+    <state width="1387" height="95" key="GridCell.Tab.0.bottom" timestamp="1604405535365">
       <screen x="0" y="0" width="1440" height="929" />
     </state>
-    <state width="1387" height="95" key="GridCell.Tab.0.bottom/0.0.1440.929@0.0.1440.929" timestamp="1604321951667" />
-    <state width="1387" height="95" key="GridCell.Tab.0.center" timestamp="1604321951667">
+    <state width="1387" height="95" key="GridCell.Tab.0.bottom/0.0.1440.929@0.0.1440.929" timestamp="1604405535365" />
+    <state width="1387" height="95" key="GridCell.Tab.0.center" timestamp="1604405535365">
       <screen x="0" y="0" width="1440" height="929" />
     </state>
-    <state width="1387" height="95" key="GridCell.Tab.0.center/0.0.1440.929@0.0.1440.929" timestamp="1604321951667" />
-    <state width="1387" height="95" key="GridCell.Tab.0.left" timestamp="1604321951667">
+    <state width="1387" height="95" key="GridCell.Tab.0.center/0.0.1440.929@0.0.1440.929" timestamp="1604405535365" />
+    <state width="1387" height="95" key="GridCell.Tab.0.left" timestamp="1604405535365">
       <screen x="0" y="0" width="1440" height="929" />
     </state>
-    <state width="1387" height="95" key="GridCell.Tab.0.left/0.0.1440.929@0.0.1440.929" timestamp="1604321951667" />
-    <state width="1387" height="95" key="GridCell.Tab.0.right" timestamp="1604321951667">
+    <state width="1387" height="95" key="GridCell.Tab.0.left/0.0.1440.929@0.0.1440.929" timestamp="1604405535365" />
+    <state width="1387" height="95" key="GridCell.Tab.0.right" timestamp="1604405535365">
       <screen x="0" y="0" width="1440" height="929" />
     </state>
-    <state width="1387" height="95" key="GridCell.Tab.0.right/0.0.1440.929@0.0.1440.929" timestamp="1604321951667" />
+    <state width="1387" height="95" key="GridCell.Tab.0.right/0.0.1440.929@0.0.1440.929" timestamp="1604405535365" />
     <state x="73" y="0" key="SettingsEditor" timestamp="1604320713560">
       <screen x="0" y="0" width="1440" height="929" />
     </state>
     <state x="73" y="0" key="SettingsEditor/0.0.1440.929@0.0.1440.929" timestamp="1604320713560" />
+    <state x="213" y="134" key="Vcs.Push.Dialog.v2" timestamp="1604325120223">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="213" y="134" key="Vcs.Push.Dialog.v2/0.0.1440.929@0.0.1440.929" timestamp="1604325120223" />
   </component>
 </project>
